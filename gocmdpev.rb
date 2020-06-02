@@ -1,8 +1,8 @@
 class Gocmdpev < Formula
   desc "Command-line GO Postgres query visualizer"
   homepage "https://github.com/simon-engledew/gocmdpev"
-  url "https://github.com/simon-engledew/gocmdpev/releases/download/1.0.1/gocmdpev"
-  sha256 "738506b93ad3537f01651371d4142803cb47659709c2e8fea2fa46c2b17418a7"
+  url "https://github.com/simon-engledew/gocmdpev/releases/download/1.0.2/gocmdpev"
+  sha256 "227b2f06089f852b04c789b6b6b9a190fa556642dcc8d214f486b55aefab404f"
 
   def install
     bin.install "gocmdpev"
